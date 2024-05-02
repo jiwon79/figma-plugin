@@ -4102,10 +4102,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["ejs", [\
-      ["npm:3.1.9", {\
-        "packageLocation": "./.yarn/cache/ejs-npm-3.1.9-e201b2088c-f0e249c791.zip/node_modules/ejs/",\
+      ["npm:3.1.10", {\
+        "packageLocation": "./.yarn/cache/ejs-npm-3.1.10-4e8cf4bdc1-52eade9e68.zip/node_modules/ejs/",\
         "packageDependencies": [\
-          ["ejs", "npm:3.1.9"],\
+          ["ejs", "npm:3.1.10"],\
           ["jake", "npm:10.8.7"]\
         ],\
         "linkType": "HARD"\
@@ -8043,7 +8043,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/vite-plugin-generate-file-npm-0.1.1-d7921f4af0-5ae072de10.zip/node_modules/vite-plugin-generate-file/",\
         "packageDependencies": [\
           ["vite-plugin-generate-file", "npm:0.1.1"],\
-          ["ejs", "npm:3.1.9"],\
+          ["ejs", "npm:3.1.10"],\
           ["js-yaml", "npm:4.1.0"],\
           ["mime-types", "npm:2.1.35"],\
           ["picocolors", "npm:1.0.0"]\
